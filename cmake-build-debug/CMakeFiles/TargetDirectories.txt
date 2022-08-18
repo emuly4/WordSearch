@@ -1,0 +1,3 @@
+C:/Users/Emil Muly/Documents/Emil's Stuff/Summer2022Projects/WordSearch/cmake-build-debug/CMakeFiles/WordSearch.dir
+C:/Users/Emil Muly/Documents/Emil's Stuff/Summer2022Projects/WordSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emil Muly/Documents/Emil's Stuff/Summer2022Projects/WordSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

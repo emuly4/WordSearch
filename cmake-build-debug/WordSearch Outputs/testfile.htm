@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+
+        /*Changes Display Parameters width/height*/
+        body {
+            min-height: 100vh;
+            max-width: 400px;
+            background-color: white;
+            margin: 0 auto;
+        }
+
+        /*Sets up Table intially*/
+        table, th, td {
+            border: none;
+        }
+        /*Allows for Table's Centering*/
+        table.center {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        /*Determines how seperated the table elements are*/
+        table {
+            border-spacing: 10px;
+        }
+
+        /* Create three equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 33.33%;
+        }
+
+        /*Text Alignment*/
+        h1 {text-align: center;}
+        h3 {text-align: left;}
+        p {text-align: center;}
+        div {text-align: center;}
+
+    </style>
+</head>
+<body>
+
+<h1>WordSearch Title</h1>
+
+<table style="width:20%", class="center">
+    <tr>
+        <td style="text-align:center">F</td>
+        <td style="text-align:center">L</td>
+        <td style="text-align:center">A</td>
+        <td style="text-align:center">A</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">J</td>
+        <td style="text-align:center">S</td>
+        <td style="text-align:center">H</td>
+        <td style="text-align:center">A</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">E</td>
+        <td style="text-align:center">J</td>
+        <td style="text-align:center">I</td>
+        <td style="text-align:center">A</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">J</td>
+        <td style="text-align:center">D</td>
+        <td style="text-align:center">O</td>
+        <td style="text-align:center">A</td>
+    </tr>
+</table>
+<h3>Word List</h3>
+<div class="row">
+    <div class="column">
+        <p>Some text left</p>
+        <p>More text</p>
+    </div>
+    <div class="column">
+        <p>Some text middle</p>
+    </div>
+    <div class="column">
+        <p>Some text right</p>
+    </div>
+</div>
+
+</body>
+</html>

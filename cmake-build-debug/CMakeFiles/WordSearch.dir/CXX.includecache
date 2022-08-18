@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Emil Muly/Documents/Emil's Stuff/Summer2022Projects/WordSearch/WordSearch.cpp
+WordSearch.h
+C:/Users/Emil Muly/Documents/Emil's Stuff/Summer2022Projects/WordSearch/WordSearch.h
+
+C:/Users/Emil Muly/Documents/Emil's Stuff/Summer2022Projects/WordSearch/WordSearch.h
+string
+-
+iostream
+-
+fstream
+-
+stack
+-
+queue
+-
+unistd.h
+-
+time.h
+-
+vector
+-
+map
+-
+
